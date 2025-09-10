@@ -212,3 +212,7 @@ section::after {
         padding: 4rem 0;
     }
 }
+
+.eseh4 {
+    color: var(--primary-color);
+}
